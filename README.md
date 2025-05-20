@@ -1,3 +1,5 @@
+![Background_github](https://github.com/user-attachments/assets/cf67d857-75b8-4ea0-a74c-116575f83d54)
+
 # 🧃 About Me:
 I’m a B.Tech student with a passion for gaming and technology. I have a good grasp of coding and am eager to explore it further by working on real-time projects that enhance my skills and creativity.
 
