@@ -10,8 +10,6 @@ I’m a B.Tech student who loves gaming and exploring technology.I have a good g
 ![](https://nirzak-streak-stats.vercel.app/?user=Mitxh13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitxh13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mitxh13?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mitxh13?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mitxh13&icon=0&color=0)](https://visitcount.itsvg.in)
