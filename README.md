@@ -13,4 +13,4 @@ I’m a student who loves gaming and exploring technology.I have a good grasp of
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Mitxh13?theme=nord)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mitxh13&icon=0&color=0)](https://visitcount.itsvg.in)
+
