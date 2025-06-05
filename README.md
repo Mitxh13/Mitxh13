@@ -13,9 +13,9 @@
 
 
 # 📊 Current Stats ⚡:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mitxh13?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+>[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mitxh13?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitxh13&layout=compact&theme=dark&hide_border=true)
+>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitxh13&layout=compact&theme=dark&hide_border=true)
 
 
 <!-- Hiding this line till i start leetcode :)
