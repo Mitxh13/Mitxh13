@@ -1,5 +1,5 @@
-![main_background_github](https://github.com/user-attachments/assets/27c744de-cdc6-4870-a2c6-624059a8e0d1)
-
+<!--![main_background_github](https://github.com/user-attachments/assets/27c744de-cdc6-4870-a2c6-624059a8e0d1)
+-->
 # 🧃 About Me:
 >I’m eager to explore coding further by working on real-time projects that enhance my skills and creativity. </>
 >![spiderman_cooked](https://github.com/user-attachments/assets/18756891-1c31-44e8-92a1-478da389ef10)
