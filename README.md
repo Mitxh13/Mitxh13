@@ -1,7 +1,7 @@
 <!--![main_background_github](https://github.com/user-attachments/assets/27c744de-cdc6-4870-a2c6-624059a8e0d1)
 -->
 # 🧃 About Me:
->I’m here to level up my skills by working on real-time projects and boosting startup growth. </> <br>
+>I’m here to level up my skills by working on real-time projects and boosting start-ups growth. </> <br>
 >![spiderman_cooked](https://github.com/user-attachments/assets/18756891-1c31-44e8-92a1-478da389ef10)
 
 <!--
