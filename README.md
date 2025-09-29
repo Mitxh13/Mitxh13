@@ -1,7 +1,7 @@
 <!--![main_background_github](https://github.com/user-attachments/assets/27c744de-cdc6-4870-a2c6-624059a8e0d1)
 -->
 # 🧃 About Me:
->I’m here to level up my skills by working on real-time projects and boosting start-ups growth. </> <br>
+>Building Cool Tech with No Manual and No Pause <br>
 >![spiderman_cooked](https://github.com/user-attachments/assets/18756891-1c31-44e8-92a1-478da389ef10)
 
 <!--
@@ -12,9 +12,11 @@
 -->
 
 
-# 📊 Current Stats ⚡:
->[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mitxh13?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-
+# 🦾 Stack:
+<!--
+>[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mitxh13?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card
+Unlock later bruh
+-->
 
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitxh13&layout=compact)
 
