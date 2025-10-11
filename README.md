@@ -18,7 +18,8 @@
 Unlock later bruh
 -->
 
->![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitxh13&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitxh13&layout=compact)-->
+>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitxh13&layout=donut)
 
 
 
