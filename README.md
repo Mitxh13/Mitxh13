@@ -20,7 +20,7 @@
 Unlock later bruh
 -->
 >**Languages:**  Python, C, JavaScript  
->**Tools:**  Git, Docker, VSCode
+>**Tools:**  Git, VSCode
 <br>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitxh13&layout=compact)-->
