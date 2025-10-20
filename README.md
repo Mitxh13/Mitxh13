@@ -19,8 +19,9 @@
 >[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mitxh13?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card
 Unlock later bruh
 -->
->**Languages:**  Python, C, JavaScript  
->**Tools:**  Git, VSCode
+**Languages:** Python, C, JavaScript <br>
+**Tools & Platforms:** Git, VSCode, Docker, Git, GitHub, Linux 
+
 <br>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitxh13&layout=compact)-->
