@@ -20,7 +20,7 @@
 Unlock later bruh
 -->
 **Languages:** Python, C, JavaScript <br>
-**Tools & Platforms:** Git, VSCode, Docker, Git, GitHub, Linux 
+**Tools & Platforms:** Git, Docker, Linux 
 
 <br>
 
