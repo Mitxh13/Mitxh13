@@ -12,6 +12,9 @@
 
 **Unlock this when needed bruh**
 -->
+# 👾 Coding Profiles
+-  [LeetCode](https://leetcode.com/Mitxh13/)
+-  [HackerRank](https://www.hackerrank.com/Mitxh13)
 
 
 # 🦾 Stack:
