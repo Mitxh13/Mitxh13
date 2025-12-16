@@ -13,7 +13,7 @@
 **Unlock this when needed bruh**
 -->
 # 👾 Coding Profiles
--  [LeetCode](https://leetcode.com/u/mitxh13/) //Currently deleting this account making new leetcode soon
+-  [LeetCode](https://leetcode.com/u/mitxh13/) 
 -  [HackerRank](https://www.hackerrank.com/Mitxh13)
 
 
