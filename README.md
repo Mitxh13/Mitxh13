@@ -10,21 +10,22 @@
 # 🦾💡 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-**Unlock this when needed bruh**
--->
+
+
 # 👾 Coding Profiles
 -  [LeetCode](https://leetcode.com/u/mitxh13/) 
 -  [HackerRank](https://www.hackerrank.com/Mitxh13)
 
 
 # 🦾 Stack:
-<!--
+
 >[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mitxh13?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card
 Unlock later bruh
--->
+**Unlock this when needed bruh**
+
 **Languages:** Python, C, JavaScript <br>
 **Tools & Platforms:** Git, Linux 
-
+-->
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitxh13&layout=compact)
