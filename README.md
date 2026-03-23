@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=I+build+digital+reality.;Backend.+AI+Development.;Gaming.;" alt="Typing Animation" />
-</div>
+</div> -->
 
 <h1 align="center"> MITESH 🦖</h1>
 <p align="center"><b>Digital Infrastructure for What I Build</b></p>
