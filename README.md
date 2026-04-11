@@ -5,6 +5,7 @@
 <h1 align="center"> MITESH 🦖</h1>
 <p align="center"><b>Digital Infrastructure for What I Build</b></p>
 
+<!--
 ---
 
 ### ⚒️ Core Stack
@@ -12,17 +13,15 @@
 <div align="center">
   <a >
     <img src="https://skillicons.dev/icons?i=py,js,c,fastapi,nodejs,react,mongodb,linux,windows,vscode,mysql,kali,git,github,&theme=dark&perline=10" alt="Tech Stack Icons" />
-    <!--Add Java,Tensorflow,Pytorch later-->
-  </a>
+      </a>
 </div>
 
 <br>
 
 ---
-<!--
+
 ### 👾 Coding Grounds
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Mitxh13?ext=heatmap)
--->
 
 ###  The Deeper layer
 GitHub contains selected implementations. For a complete overview of my projects, certification visit my portfolio.
@@ -30,6 +29,7 @@ GitHub contains selected implementations. For a complete overview of my projects
 <div align="center">
   <h2>🌐 <a href="https://mitesh.pages.dev">Click</a><a> to visit my site</a></h2>
 </div>
+-->
 
 <!-- Later use it if needed bruh
 ![main_background_github](https://github.com/user-attachments/assets/27c744de-cdc6-4870-a2c6-624059a8e0d1)
